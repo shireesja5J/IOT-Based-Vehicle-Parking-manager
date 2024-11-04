@@ -13,8 +13,8 @@ Data Analytics: Tracks usage for optimized management and predicts future demand
 Scalability and Security: Designed to grow and adapt to different settings, with security measures in place for data protection.
 Literature Survey
 Existing IoT-enabled parking solutions leverage sensors like RFID and ultrasonic, providing real-time updates through mobile apps. The project explores future developments in AI-driven analytics for space optimization and eco-friendly designs with energy-efficient components.
-![image](https://github.com/user-attachments/assets/d42fc441-a5bf-46ec-a218-4a39129dca3e)
-![image](https://github.com/user-attachments/assets/0f429b98-52a5-44f7-9fc2-2c491bcbe046)
+![WhatsApp Image 2024-11-04 at 18 41 19_d79039b8](https://github.com/user-attachments/assets/9eaf10cf-b4f7-4bf7-aff7-f4b10983e4e3)
+
 
 
 System Design:
@@ -24,6 +24,8 @@ Sensors (ultrasonic, infrared, magnetic) to detect vehicles.
 GPRS Modem for web updates.
 LCD Display at the entrance showing real-time slot availability.
 Requirements Analysis
+![WhatsApp Image 2024-11-04 at 18 42 47_5613d153](https://github.com/user-attachments/assets/0e310661-ce8f-41ad-983e-7de4617b5bfa)
+
 
 The system must support:
 Real-time monitoring.
