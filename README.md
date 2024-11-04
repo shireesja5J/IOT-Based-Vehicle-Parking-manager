@@ -13,6 +13,8 @@ Data Analytics: Tracks usage for optimized management and predicts future demand
 Scalability and Security: Designed to grow and adapt to different settings, with security measures in place for data protection.
 Literature Survey
 Existing IoT-enabled parking solutions leverage sensors like RFID and ultrasonic, providing real-time updates through mobile apps. The project explores future developments in AI-driven analytics for space optimization and eco-friendly designs with energy-efficient components.
+![image](https://github.com/user-attachments/assets/d42fc441-a5bf-46ec-a218-4a39129dca3e)
+![image](https://github.com/user-attachments/assets/0f429b98-52a5-44f7-9fc2-2c491bcbe046)
 
 
 System Design:
@@ -103,4 +105,6 @@ java ParkingSystemManager
 Observe Output:
 The output will display the initial slot status.
 The program will show a series of actions, such as parking vehicles, displaying current status, and removing vehicles, simulating the real-time parking management system.
+![WhatsApp Image 2024-11-04 at 18 34 29_b1767502](https://github.com/user-attachments/assets/496278ee-9b6d-44a2-bdae-63ff95df6b75)
+
 
